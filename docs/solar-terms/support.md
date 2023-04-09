@@ -16,5 +16,5 @@ sidebarDepth: 2
 
 
 ## 还需要其他帮助?
-请联系: [support@dongtec.com](mailto:support@dongtec.com)
+请联系: [zhiguistudio@gmail.com](mailto:zhiguistudio@gmail.com)
 

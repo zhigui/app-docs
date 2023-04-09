@@ -27,5 +27,5 @@ We cannot help you because you and only you have access to them (read more in [P
 
 
 ## Still Need Help?
-Contact Support: [support@dongtec.com](mailto:support@dongtec.com)
+Contact Support: [zhiguistudio@gmail.com](mailto:zhiguistudio@gmail.com)
 

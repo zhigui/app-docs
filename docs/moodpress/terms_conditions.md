@@ -22,4 +22,4 @@ I may update our Terms and Conditions from time to time. Thus, you are advised t
 
 ## Contact Us
 
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me. [support@dongtec.com](mailto:support@dongtec.com)
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me. [zhiguistudio@gmail.com](mailto:zhiguistudio@gmail.com)
