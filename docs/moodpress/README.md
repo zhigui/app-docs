@@ -1,3 +1,8 @@
+---
+navbar: false
+sidebar: false
+---
+
 [Support](./support.md)
 
 [Privacy Policy](./privacy_policy.md)
