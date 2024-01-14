@@ -1,9 +1,9 @@
 ---
-sidebar: auto
-sidebarDepth: 2
+navbar: false
+sidebar: false
 ---
 
-**Privacy Policy**
+# Privacy Policy
 
 ZhiguiChen ("us", "we", or "our") operates the CatPaw iOS mobile application (the "Service").
 
