@@ -15,7 +15,7 @@ We do not collect any personally identifiable information from users of our Serv
 
 If you choose to use the AI functionality provided by the Third-party Ai Service, you, as a user, will be required to manually input your Api key and other necessary configurations. The input data from users utilizing the AI features will be sent to Third-party AI servers, and CatPaw does not collect or store any of this information.
 
-Users have the ability to create personalized AI commands based on their preferences and needs. These custom commands and associated records will be stored only on the user's local device, providing an individualized and secure experience. CatPaw, as the app developer, does not have access to or store these user-created AI commands.
+Users have the ability to create personalized AI commands based on their preferences and needs. These custom commands and associated records will be stored only on the user's local device, providing an individualized and secure experience.
 
 **Use of Data**
 
@@ -23,11 +23,11 @@ Our app offers the AI Commands iCloud Sync feature, providing seamless command s
 
 The data collected by OpenAI during the use of AI features is subject to OpenAI's privacy policy. Users are encouraged to review OpenAI's policies, which can be found at OpenAI Privacy Policies, for a comprehensive understanding of how their data is handled: [OpenAi Privacy Policy](https://openai.com/policies/privacy-policy).
 
-The data collected by Google Gemini during the use of AI features is subject to the [Google APIs Terms of Service](https://developers.google.com/terms) and the [Generative AI APIs Additional Terms of Service](https://ai.google.dev/terms), and [Google Privacy Policy](https://policies.google.com/privacy). **Please notice that don't submit sensitive, confidential, or personal information to the APIs.** To help with quality, safety, and to improve our products, human reviewers may read, annotate, and process your API input and output. Google takes steps to protect your privacy as part of this process, including disconnecting this data from your Google Account or API key before reviewers see or annotate it.
+The data collected by Google Gemini during the use of AI features is subject to the [Google APIs Terms of Service](https://developers.google.com/terms) and the [Generative AI APIs Additional Terms of Service](https://ai.google.dev/terms), and [Google Privacy Policy](https://policies.google.com/privacy). **Please notice that don't submit sensitive, confidential, or personal information to the APIs.** Human reviewers may read, annotate, and process your API input and output. Google takes steps to protect your privacy as part of this process, including disconnecting this data from your Google Account or API key before reviewers see or annotate it.
 
 **Security**
 
-We value your trust in providing your data; thus, we are striving to use commercially acceptable means of protecting it. However, no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+We value your trust in providing your data, thus we are striving to use commercially acceptable means of protecting it. However, no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
 **Keyboard Full Access**
 
