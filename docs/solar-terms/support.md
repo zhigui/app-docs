@@ -16,5 +16,5 @@ sidebarDepth: 2
 
 
 ## 还需要其他帮助?
-请联系: [zhiguistudio@gmail.com](mailto:zhiguistudio@gmail.com)
+请联系: <span style="direction: rtl; unicode-bidi: bidi-override; color: var(--c-text-accent); -webkit-user-select: none;">moc.liamg@iugihzc</span>
 

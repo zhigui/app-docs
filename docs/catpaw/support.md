@@ -76,4 +76,4 @@ When execute the command. CatPaw will replace the ```{option}``` with the option
 Creativity is essentially the temperature parameter. Lower values of temperature, result in more consistent outputs, while higher values, generate more diverse and creative results. When selecting a temperature value, consider the desired balance between coherence and creativity for your specific application.
 
 ## Still Need Help?
-Contact Support: [zhiguistudio@gmail.com](mailto:zhiguistudio@gmail.com)
+Contact Support: <span style="direction: rtl; unicode-bidi: bidi-override; color: var(--c-text-accent); -webkit-user-select: none;">moc.liamg@iugihzc</span>

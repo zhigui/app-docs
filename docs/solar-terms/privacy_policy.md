@@ -17,4 +17,4 @@ sidebar: false
 
 ## 联系我们
 
-如果您有任何疑问或建议，请随时与我联系。 [zhiguistudio@gmail.com](mailto:zhiguistudio@gmail.com)
+如果您有任何疑问或建议，请随时与我联系。 <span style="direction: rtl; unicode-bidi: bidi-override; color: var(--c-text-accent); -webkit-user-select: none;">moc.liamg@iugihzc</span>
