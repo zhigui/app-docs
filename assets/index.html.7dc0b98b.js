@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d1a3cc88","path":"/moodpress/","title":"","lang":"en-US","frontmatter":{"navbar":false,"sidebar":false},"excerpt":"","headers":[],"git":{},"filePathRelative":"moodpress/README.md"}');export{e as data};

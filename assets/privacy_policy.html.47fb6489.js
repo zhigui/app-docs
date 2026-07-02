@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-751f8aea","path":"/catpaw/privacy_policy.html","title":"Privacy Policy","lang":"en-US","frontmatter":{"navbar":false,"sidebar":false},"excerpt":"","headers":[],"git":{},"filePathRelative":"catpaw/privacy_policy.md"}');export{a as data};
