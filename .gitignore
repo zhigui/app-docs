@@ -2,3 +2,10 @@ node_modules
 .temp
 .cache
 .DS_Store
+/docs/.vuepress/*
+!/docs/.vuepress/config.js
+!/docs/.vuepress/components/
+!/docs/.vuepress/components/*
+!/docs/.vuepress/public/
+!/docs/.vuepress/public/bamboo/
+!/docs/.vuepress/public/bamboo/*

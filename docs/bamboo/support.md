@@ -353,7 +353,25 @@ Tapping a widget opens Bamboo through an app link. To-do widgets can toggle a to
 
 ## Browser Clipping
 
-Bamboo supports clipped Markdown imports through its app link system and Safari extension integration.
+Bamboo supports clipped Markdown imports through its app link system, browser extensions, and the system share sheet.
+
+### Install the browser extension
+
+The Bamboo Web Clipper browser extension requires the Bamboo app to be installed on the same device.
+
+Safari:
+
+- Bamboo automatically installs its Safari extension with the main app.
+- On macOS, open **Safari > Settings > Extensions**, find **Bamboo Web Clipper** in the extensions list, and enable it.
+- On iOS, tap the icon on the left side of the Safari address bar to access the extension.
+- On iPadOS, tap the extensions button on the right side of the address bar to enable Bamboo's extension. The Bamboo icon will appear next to the extension button.
+
+Chrome:
+
+- Visit the [Bamboo Web Clipper page in the Chrome Web Store](https://chromewebstore.google.com/detail/bamboo-web-clipper/hmflieklkcopnhecjmhfafafoohniohf) and click **Add to Chrome**.
+- The Chrome extension is also compatible with other Chromium-based browsers.
+
+### Clip content
 
 A clip can include:
 
@@ -364,7 +382,19 @@ A clip can include:
 
 When a clip includes a collection path, Bamboo creates missing collection path segments as needed and places the new note there. The clipped content is imported as Markdown and then handled like any other Bamboo note.
 
+### Use the app extension
+
+Bamboo for iOS, iPadOS, and macOS includes an app extension that makes it easy to collect text and links from other apps.
+
+To use the extension, tap or click the system share button in another app, then choose **Bamboo**.
+
+If Bamboo is not listed in the top app row, scroll to the far right of that row and tap **More**. In the app list that appears, find Bamboo and enable it.
+
+When you use the app extension, Bamboo shows a dialog that previews the note and offers a few options. Press **Save** to create a new note.
+
 ## Advanced: App Links, CLI, and MCP
+
+### App links
 
 Bamboo supports app links using the `bamboo://` URL scheme. These are useful for shortcuts, widgets, automations, and integrations with other apps.
 
@@ -398,7 +428,11 @@ bamboo://clip?title=Example&collection=Research/Web&clipboard=1
 
 ### Command line
 
-Bamboo includes `bamboocli` for command-line workflows.
+Bamboo includes `bamboocli` for command-line workflows. The CLI is located at:
+
+```text
+/Applications/Bamboo.app/Contents/MacOS/bamboocli
+```
 
 Common commands include:
 
@@ -419,7 +453,9 @@ The `list` command supports filters such as `allNotes`, `uncollected`, `toDo`, `
 
 ### MCP server
 
-`bamboocli mcp-server` runs Bamboo’s MCP server over stdio. It exposes note tools for creating notes, reading note content, replacing ranges, searching notes, listing notes, listing collections, listing to-dos, and editing to-dos.
+`bamboocli mcp-server` runs Bamboo’s MCP server over stdio. You can use it with third-party AI products that support MCP, such as Codex and Claude, so those tools can work with your Bamboo notes.
+
+The MCP server exposes note tools for creating notes, reading note content, replacing ranges, searching notes, listing notes, listing collections, listing to-dos, and editing to-dos.
 
 Most MCP clients use the same JSON config shape:
 

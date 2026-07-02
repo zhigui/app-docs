@@ -1,0 +1,29 @@
+---
+home: true
+title: Bamboo
+heroImage: /bamboo/app-icon.png
+heroAlt: Bamboo app icon
+heroText: Bamboo
+tagline: AI Markdown Notes for writing, tasks, and personal knowledge management.
+actions:
+  - text: Download on the App Store
+    link: https://apps.apple.com/us/app/bamboo-ai-markdown-notes/id6753059522
+    type: primary
+  - text: Read the Docs
+    link: /bamboo/support.html
+    type: secondary
+features:
+  - title: Markdown-first Writing
+    details: Capture ideas, write long-form notes, manage tasks, and keep images or attachments together in clean, portable Markdown.
+  - title: Connected Knowledge
+    details: Organize notes with nested Collections, link ideas with Wiki Links, and quickly find important content with Pin, Star, Archive, and search.
+  - title: AI That Fits Your Workflow
+    details: Configure your own AI provider and model, then use AI to summarize, rewrite, draft, brainstorm, and work with your notes.
+  - title: Capture and Move Freely
+    details: Clip web pages into Markdown, import existing Markdown libraries, export to portable formats, and create full backups when needed.
+  - title: Across Apple Devices
+    details: Use Bamboo on iPhone, iPad, and Mac, with iCloud Sync, widgets, App Links, and Shortcuts-friendly workflows.
+  - title: Power User Ready
+    details: On Mac, Bamboo supports bamboocli and MCP server workflows for developers, researchers, and advanced automation.
+footer: Markdown-first. AI-powered. Built for your personal knowledge base.
+---
