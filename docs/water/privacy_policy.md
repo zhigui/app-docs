@@ -24,4 +24,4 @@ Your water / caffeine intake is securely stored in Apple’s encrypted Health ap
 
 ## Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me. <span style="direction: rtl; unicode-bidi: bidi-override; color: var(--c-text-accent); -webkit-user-select: none;">moc.liamg@iugihzc</span>
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [czhigui@gmail.com](mailto:czhigui@gmail.com).

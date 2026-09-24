@@ -39,5 +39,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <span style="direction: rtl; unicode-bidi: bidi-override; color: var(--c-text-accent); -webkit-user-select: none;">moc.liamg@iugihzc</span>.
-
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [czhigui@gmail.com](mailto:czhigui@gmail.com).

@@ -27,5 +27,4 @@ We cannot help you because you and only you have access to them (read more in [P
 
 
 ## Still Need Help?
-Contact Support: <span style="direction: rtl; unicode-bidi: bidi-override; color: var(--c-text-accent); -webkit-user-select: none;">moc.liamg@iugihzc</span>
-
+Contact Support: [czhigui@gmail.com](mailto:czhigui@gmail.com)

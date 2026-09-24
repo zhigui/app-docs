@@ -158,5 +158,4 @@ We may update this Privacy Policy from time to time. When we do, we will post th
 
 ## Contact Us
 
-If you have questions or suggestions about this Privacy Policy, contact us at <span style="direction: rtl; unicode-bidi: bidi-override; color: var(--c-text-accent); -webkit-user-select: none;">moc.liamg@iugihzc</span>.
-
+If you have questions or suggestions about this Privacy Policy, contact us at [czhigui@gmail.com](mailto:czhigui@gmail.com).
